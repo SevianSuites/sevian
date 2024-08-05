@@ -41,7 +41,7 @@ header {
 <header>
 <h2 style="font-family:calibri;">Sevian Suites</h2>
 </header>
-<p style="color: blue;"><i>"4.5 star suites"</i></p>
+<p style="color: blue;"><i>"4.5 stars on Google"</i></p>
 </section>
 
 <section>
