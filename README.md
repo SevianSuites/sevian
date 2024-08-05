@@ -31,18 +31,20 @@ header {
 </head>
 
 <body>
+<img src="Sevian logo.png" width="100" height="100" alt="Sevian Enterprises Logo">
+<p>A <b><i>Sevian Enterprises</i></b> development</p>
 
 <div class="center">
 <header>
 <h2 style="font-family:calibri;">Sevian Suites</h2>
 </header>
-<p style="font-family:calibri;" style="color: blue;"><i>"4.5 star suites"</i></p>
+<p style="color: blue;"><i>"4.5 star suites"</i></p>
 
 <section>
 <h3 style="font-family:calibri;">Very affordable houses in a very good location!</h3>
-<p style="font-family:calibri;">We are located in Kisumu near the Mega City Mall, The Kisumu national Polytechnic and the Moi Stadium Kisumu.</p>
+<p style="font-family:calibri;">We are located in Polyview, Kisumu which is conviniently located near the Mega City Mall, The Kisumu national Polytechnic, the Moi Stadium Kisumu and the Kisumu CBD.</p>
 <p style="font-family:calibri;">This houses are designed for students or civillins looking for a place to stay at.</p>
-<p style="font-family:calibri;">We have Studio suites and 1 bedrooms which are quite affordable!</p>
+<p style="font-family:calibri;">We have Studio and 1 bedroom apartments which are quite affordable!</p>
 </section>
 
 <section>
@@ -54,21 +56,22 @@ header {
 
 <section>
 <p style="font-family:calibri;" class="solid"><b>Reviews:</b></p>
-<p style="font-family:calibri;" style="color: blue;"><i>"Everything about this place is excellent"</i></p>
-<p style="font-family:calibri;" style="color: blue;"><i>"Clean and serene environment"</i><p>
-<p style="font-family:calibri;" style="color: blue;"><i>"Lovely vocational homes studio...."</i></p>
-<p style="font-family:calibri;" style="color: blue;"><i>"Safe"</i></p>
+<p style="color: blue;"><i>"Everything about this place is excellent"</i></p>
+<p style="color: blue;"><i>"Clean and serene environment"</i><p>
+<p style="color: blue;"><i>"Lovely vocational homes studio...."</i></p>
+<p style="color: blue;"><i>"Safe"</i></p>
 </section>
 
 <section>
 <p style="font-family:calibri;" class="solid"><b>Contact Information:</b></h4>
 </div>
-<p style="font-family:calibri;"><i>Tel:</i>+254 798 985277</tel>
-<p style="font-family:calibri;"><i>Address:</i>WQ29+3H, Kisumu<p/>
+<p style="font-family:calibri;"><i>Tel:</i> +254 798 985277</tel>
+<p style="font-family:calibri;"><i>Address:</i> WQ29+3H, Kisumu<p/>
+<p style="font-family:calibri;"><i>Email:</i> sevianenterprises@gmail.com</p>
 </section>
 
 <section>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15959.249068139521!2d34.7688868!3d-0.0998062!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182aa5db39b129eb%3A0x8554d7d44a218703!2sSevian%20Suites%20Kisumu!5e0!3m2!1sen!2ske!4v1722860127606!5m2!1sen!2ske" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15959.249068139521!2d34.7688868!3d-0.0998062!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182aa5db39b129eb%3A0x8554d7d44a218703!2sSevian%20Suites%20Kisumu!5e0!3m2!1sen!2ske!4v1722860127606!5m2!1sen!2ske" width="300" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </section>
 
 </body>
