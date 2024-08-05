@@ -34,37 +34,37 @@ header {
 
 <div class="center">
 <header>
-<h2>Sevian Suites</h2>
+<h2 style="font-family:calibri;">Sevian Suites</h2>
 </header>
-<p style="color: blue;"><i>"4.5 star suites"</i></p>
+<p style="font-family:calibri;" style="color: blue;"><i>"4.5 star suites"</i></p>
 
 <section>
-<h3>Very affordable houses in a very good location!</h3>
-<p>We are located in Kisumu near the Mega City Mall, The Kisumu national Polytechnic and the Moi Stadium Kisumu.</p>
-<p>This houses are designed for students or civillins looking for a place to stay at.</p>
-<p>We have Studio suites and 1 bedrooms which are quite affordable!</p>
+<h3 style="font-family:calibri;">Very affordable houses in a very good location!</h3>
+<p style="font-family:calibri;">We are located in Kisumu near the Mega City Mall, The Kisumu national Polytechnic and the Moi Stadium Kisumu.</p>
+<p style="font-family:calibri;">This houses are designed for students or civillins looking for a place to stay at.</p>
+<p style="font-family:calibri;">We have Studio suites and 1 bedrooms which are quite affordable!</p>
 </section>
 
 <section>
-<p class="solid"><b>View of Sevian Suites from outside:</b></p>
+<p style="font-family:calibri;" class="solid"><b>View of Sevian Suites from outside:</b></p>
 <img src="Sevian picture.png" width="400" height="350" alt="View of Sevian Suites from Outside">
-<p class="solid"><b>Inside view of the Furnished Unit:</b></p>
+<p style="font-family:calibri;" class="solid"><b>Inside view of the Furnished Unit:</b></p>
 <img src="Sevian picture 2.png" width="400" height="350" alt="Inside view of the Furnished Unit:">
 </section>
 
 <section>
-<p class="solid"><b>Reviews:</b></p>
-<p style="color: blue;"><i>"Everything about this place is excellent"</i></p>
-<p style="color: blue;"><i>"Clean and serene environment"</i><p>
-<p style="color: blue;"><i>"Lovely vocational homes studio...."</i></p>
-<p style="color: blue;"><i>"Safe"</i></p>
+<p style="font-family:calibri;" class="solid"><b>Reviews:</b></p>
+<p style="font-family:calibri;" style="color: blue;"><i>"Everything about this place is excellent"</i></p>
+<p style="font-family:calibri;" style="color: blue;"><i>"Clean and serene environment"</i><p>
+<p style="font-family:calibri;" style="color: blue;"><i>"Lovely vocational homes studio...."</i></p>
+<p style="font-family:calibri;" style="color: blue;"><i>"Safe"</i></p>
 </section>
 
 <section>
-<p class="solid"><b>Contact Information:</b></h4>
+<p style="font-family:calibri;" class="solid"><b>Contact Information:</b></h4>
 </div>
-<p><i>Tel:</i>+254 798 985277</tel>
-<p><i>Address:</i>WQ29+3H, Kisumu<p/>
+<p style="font-family:calibri;"><i>Tel:</i>+254 798 985277</tel>
+<p style="font-family:calibri;"><i>Address:</i>WQ29+3H, Kisumu<p/>
 </section>
 
 <section>
