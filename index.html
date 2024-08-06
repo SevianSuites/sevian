@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 
 <html>
@@ -7,6 +6,8 @@
 
 <title>Sevian Suites Homepage</title>
 <meta name="description" content="Sevian Suites are affordable houses located in Kisumu. They are designed for students or civilians looking for a house.">
+
+<link rel="Icon" href="Sevian logo.png" type="image/x-icon">
 
 <style>
 
