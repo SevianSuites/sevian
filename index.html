@@ -113,6 +113,10 @@ A <i><b>Sevian Enterprises</i></b> development
 <p>As you can see the building has a beautiful array of colours</p>
 <p style="font-family:calibri;" class="solid"><b>Inside view of the Furnished Unit:</b></p>
 <img src="Sevian picture 2.png" width="400" height="350" alt="Inside view of the Furnished Unit:">
+<p style="font-family:calibri;" class="solid"><b>Another view of Sevian Suites from outside:</b></p>
+<img src="Sevian picture 3.png" width="400" height="350" alt="Another view of Sevian Suites from outside:">
+<p style="font-family:calibri;" class="solid"><b>Final view of Sevian Suites from outside:</b></p>
+<img src="Sevian picture 4.png" width="400" height="350" alt="Final view of Sevian Suites from outside:">
 </div>
 </div>
 
