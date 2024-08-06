@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 
 <html>
@@ -123,7 +124,7 @@ A <i><b>Sevian Enterprises</i></b> development
 
 <div class="card">
 <h3>Map</3>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15959.249068139521!2d34.7688868!3d-0.0998062!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182aa5db39b129eb%3A0x8554d7d44a218703!2sSevian%20Suites%20Kisumu!5e0!3m2!1sen!2ske!4v1722860127606!5m2!1sen!2ske" width="225" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15959.249068139521!2d34.7688868!3d-0.0998062!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182aa5db39b129eb%3A0x8554d7d44a218703!2sSevian%20Suites%20Kisumu!5e0!3m2!1sen!2ske!4v1722860127606!5m2!1sen!2ske" width="245" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="card">
