@@ -4,6 +4,8 @@
 
 <head>
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>Sevian Suites Homepage</title>
 <meta name="description" content="Sevian Suites are affordable houses located in Kisumu. They are designed for students or civilians looking for a house.">
 
@@ -124,12 +126,12 @@ A <i><b>Sevian Enterprises</i></b> development
 </div>
 
 <div class="card">
-<h3>Map</3>
+<h2>Map</h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15959.249068139521!2d34.7688868!3d-0.0998062!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182aa5db39b129eb%3A0x8554d7d44a218703!2sSevian%20Suites%20Kisumu!5e0!3m2!1sen!2ske!4v1722860127606!5m2!1sen!2ske" width="245" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="card">
-<h3>Contact Information</h3>
+<h2>Contact Information</h2>
 <p style="font-family:calibri;"><i>Tel:</i> +254 798 985277</tel>
 <p style="font-family:calibri;"><i>Address:</i> WQ29+3H, Kisumu<p/>
 <p style="font-family:calibri;"><i>Email:</i> sevianenterprises@gmail.com</p>
@@ -139,8 +141,8 @@ A <i><b>Sevian Enterprises</i></b> development
 </div>
 </div>
 
-<h6>Coding by Andre Owino</h6>
-
+<p style="font-size:50%;">Coding by Andre Owino</p>
+<p style="font-size:50%;">Sevian Enterprises 2024&copy;</p>
 </body>
 
 </html>
