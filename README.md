@@ -131,9 +131,13 @@ A <i><b>Sevian Enterprises</i></b> development
 <p style="font-family:calibri;"><i>Tel:</i> +254 798 985277</tel>
 <p style="font-family:calibri;"><i>Address:</i> WQ29+3H, Kisumu<p/>
 <p style="font-family:calibri;"><i>Email:</i> sevianenterprises@gmail.com</p>
+<p style="font-family:calibri;"><a href="https://bit.ly/SevianSuites">Sevian Suites Google Page</a></p>
+
 </div>
 </div>
 </div>
+
+<h6>Coding by Andre Owino</h6>
 
 </body>
 
